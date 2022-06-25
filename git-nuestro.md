@@ -1,4 +1,4 @@
-# Git nuestro
+# Plegaria a Git
 
 *Git* nuestro que estás en los repos
 
