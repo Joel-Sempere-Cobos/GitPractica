@@ -1,4 +1,7 @@
 # Práctica de Git
+
+*NOTA: en lugar de MAIN tengo la rama MASTER. En discord has dicho que para este módulo lo permitías. Para el próximo lo clonaré de github y lo haré con MAIN. Gracias!*
+
 ## Ejercicio 1
 
 
