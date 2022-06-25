@@ -2,6 +2,8 @@
 
 *NOTA: en lugar de MAIN tengo la rama MASTER. En discord has dicho que para este módulo lo permitías. Para el próximo lo clonaré de github y lo haré con MAIN. Gracias!*
 
+------
+
 ## Ejercicio 1
 
 
@@ -72,3 +74,9 @@ git checkout de0e8e8 para ir a él
 
 git reflog para ver la referencia
 git checkout 9ccd3e8 para ir a él
+
+------
+
+## Ejercicio 2
+
+*Pull request enviado y sin conflictos con una cita de Matrix*
